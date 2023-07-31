@@ -1,0 +1,16 @@
+{"level":"error","message":"All blogs: Operation `blogs.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"All blogs: Operation `blogs.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"All blogs: Operation `blogs.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"All blogs: Operation `blogs.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"All blogs: Operation `blogs.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"All blogs: Operation `blogs.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"All blogs: Operation `blogs.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"listen EADDRINUSE: address already in use :::5000"}
+{"level":"error","message":"listen EADDRINUSE: address already in use :::5000"}
+{"level":"error","message":"Posting blog error: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Blog validation failed: title: Path `title` is required., body: Path `body` is required."}
+{"level":"error","message":"Posting blog error: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Blog validation failed: title: Path `title` (`t`) is shorter than the minimum allowed length (3)., body: Path `body` is required."}
+{"level":"error","message":"Posting blog error: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Blog validation failed: category: `test` is not a valid enum value for path `category`."}
+{"level":"error","message":"Posting blog error: Blog validation failed: body: Path `body` is required."}
